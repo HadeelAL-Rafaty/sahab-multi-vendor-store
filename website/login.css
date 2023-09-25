@@ -1,0 +1,26 @@
+* {
+    font-family: 'stc';
+    color: rgb(105, 103, 102);
+}
+/* .p-5{
+    padding-bottom: 5%!important;
+    padding-top: 5%!important;
+} */
+.auth-block.p-3{
+    margin-left: -12px!important;
+    margin-top: 2px;
+    border-radius: 9px !important;
+    border-top-left-radius: 0!important;
+    border-bottom-left-radius: 0!important;
+    margin-right: 12px;
+
+}
+[type=number]{
+    direction: rtl;
+}
+
+.btn.btn-primary{
+    background-color: rgb(65, 130, 195);
+    font-size: 18px;
+
+}
